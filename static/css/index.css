@@ -761,5 +761,17 @@ a:focus {
   }
 }
 
+/* Fix link colors in light hero sections overridden by Bulma */
+.hero.is-light
+  a:not(.button):not(.dropdown-item):not(.tag):not(
+    .pagination-link.is-current
+  ) {
+  color: var(--primary-color);
+}
 
-
+.hero.is-light
+  a:not(.button):not(.dropdown-item):not(.tag):not(
+    .pagination-link.is-current
+  ):hover {
+  color: var(--primary-hover);
+}
