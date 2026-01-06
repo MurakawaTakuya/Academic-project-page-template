@@ -22,9 +22,17 @@ Example project pages built using this template are:
 ## Start using the template
 
 To start using the template click on `Use this Template`.
+<img width="800" height="1713" alt="画像2" src="https://github.com/user-attachments/assets/90fb70fc-3997-472a-8028-d09f634142ec" />
+
 
 The template uses html for controlling the content and css for controlling the style.
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest. Search "TODO" for editable parts.
+To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.
+
+
+Search "TODO" in `index.html` for editable parts.
+
+<img width="600" height="746" alt="image" src="https://github.com/user-attachments/assets/204091f6-f9e8-4697-a2b9-7efc23b188f2" />
+
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
 
