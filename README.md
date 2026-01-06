@@ -1,7 +1,3 @@
-<!-- TODO: 説明追加 -->
-
-- [ ] extension install
-
 # Academic Project Page Template
 
 > **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
@@ -28,7 +24,7 @@ Example project pages built using this template are:
 To start using the template click on `Use this Template`.
 
 The template uses html for controlling the content and css for controlling the style.
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.
+To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest. Search "TODO" for editable parts.
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
 
