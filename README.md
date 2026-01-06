@@ -53,6 +53,9 @@ Wait a while, and you'll see the link of the published page.
 
 <img width="800" height="1981" alt="画像5" src="https://github.com/user-attachments/assets/cf83393e-1d7a-4d7b-b9b5-d9b9a72e5114" />
 
+Reference
+- [Github Pagesの使い方まとめ | Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
+- [GitHub Pages とは | GitHub Official Document](https://docs.github.com/ja/pages/getting-started-with-github-pages/what-is-github-pages)
 
 ## What's New
 
