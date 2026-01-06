@@ -36,11 +36,9 @@ You can keep the repository private, but you have to make it public to publish G
 The template uses html for controlling the content and css for controlling the style.
 To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.
 
-
 Search "TODO" in `index.html` for editable parts.
 
 <img width="600" height="746" alt="image" src="https://github.com/user-attachments/assets/204091f6-f9e8-4697-a2b9-7efc23b188f2" />
-
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
 
@@ -49,6 +47,7 @@ Search "TODO" in `index.html` for editable parts.
 When you open the project in VS Code, you'll be prompted to install the recommended extensions (or search @recommended in the Extensions view). Once installed, the code will automatically format on save, keeping your HTML, CSS, and JavaScript code clean and consistent.
 
 ### Publish page using GitHub Pages
+
 Go "Settings" > "Pages"
 
 <img width="800" height="2088" src="https://github.com/user-attachments/assets/81a15c17-ec4b-436a-befb-3256beaa06c4" />
@@ -66,7 +65,8 @@ Also, don't forget to show the published link in the repo description. Select "U
 <img width="800" height="1961" src="https://github.com/user-attachments/assets/2444d2c8-b7b1-4da3-9e9f-c1811e5a33d1" />
 
 Reference
-- [Github Pagesの使い方まとめ | Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
+
+- [Github Pages の使い方まとめ | Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
 - [GitHub Pages とは | GitHub Official Document](https://docs.github.com/ja/pages/getting-started-with-github-pages/what-is-github-pages)
 
 ## What's New
@@ -116,7 +116,8 @@ Create a 1200x630px social preview image at `static/images/social_preview.png`.
 - Works with GitHub Pages
 
 ## Acknowledgments
-This template uses a modified version of [Academic Project Page Template by Eliahu Horwitz](https://github.com/eliahuhorwitz/Academic-project-page-template).
+
+Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page and the [Academic Project Page Template](https://eliahuhorwitz.github.io/Academic-project-page-template/)
 
 ## Website License
 

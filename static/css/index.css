@@ -31,8 +31,7 @@ html {
 }
 
 body {
-  font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont,
-    sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: var(--text-primary);
   line-height: 1.6;
   font-size: 16px;
@@ -115,10 +114,10 @@ body {
 
 /* Publication Content Styling */
 .publication-title {
-  font-family: "Inter", sans-serif !important;
-  font-weight: 800 !important;
-  color: var(--text-primary) !important;
-  margin-bottom: 2rem !important;
+  font-family: "Google Sans", sans-serif;
+  font-weight: 600;
+  color: #363636;
+  margin-bottom: 1rem !important;
   line-height: 1.1 !important;
 }
 
@@ -146,7 +145,7 @@ body {
 }
 
 .publication-authors {
-  font-family: "Inter", sans-serif !important;
+  font-family: "Google Sans", sans-serif;
   font-weight: 500;
 }
 
@@ -175,7 +174,6 @@ body {
 .publication-authors a {
   color: var(--primary-color) !important;
   text-decoration: none;
-  font-weight: 600;
   transition: var(--transition);
   position: relative;
 }
@@ -333,11 +331,12 @@ body {
 /* Content Improvements */
 .content.has-text-justified {
   font-size: 1.1rem;
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 .content.has-text-justified p {
   margin-bottom: 1.5rem;
+  color: #4a4a4a;
 }
 
 /* Footer Improvements */
