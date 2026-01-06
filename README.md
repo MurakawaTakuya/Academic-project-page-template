@@ -21,9 +21,17 @@ Example project pages built using this template are:
 
 ## Start using the template
 
-To start using the template click on `Use this Template`.
+### Create a repository using template
+
+To start using the template click on "Use this Template" > "Create a new repository".
 <img width="800" height="1713" src="https://github.com/user-attachments/assets/90fb70fc-3997-472a-8028-d09f634142ec" />
 
+Select owner, put repository name, and write description.
+You can keep the repository private, but you have to make it public to publish GitHub Pages if the owner is organization (or change GitHub plan). You can change visibility after you complete editing the file.
+
+<img width="800" height="2308" src="https://github.com/user-attachments/assets/25e85182-1f56-4d2c-a12e-f0cfba3048ba" />
+
+### Edit files
 
 The template uses html for controlling the content and css for controlling the style.
 To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.
@@ -43,11 +51,11 @@ When you open the project in VS Code, you'll be prompted to install the recommen
 ### Publish page using GitHub Pages
 Go "Settings" > "Pages"
 
-<img width="800" height="1806" src="https://github.com/user-attachments/assets/282911aa-4a49-4d0d-b041-9df938a093f4" />
+<img width="800" height="2088" src="https://github.com/user-attachments/assets/81a15c17-ec4b-436a-befb-3256beaa06c4" />
 
-On Branch selection, select "none" and save, then selet "main" and save again. (if the default selected branch is "none", just select "main" and save)
+On branch selection, select "main" and save.
 
-<img width="500" height="2063" src="https://github.com/user-attachments/assets/7fd8fffc-955c-476b-9a8d-a670594f6dd1" />
+<img width="400" height="2063" src="https://github.com/user-attachments/assets/fe10562f-2d55-4a0d-8f6f-d7e92d65a1b2" />
 
 Wait a while, and you'll see the link of the published page.
 
